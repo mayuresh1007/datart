@@ -34,10 +34,10 @@ const ModalProvider = ({ children }) => {
 
 export { ModalContext, ModalProvider };
 
-{
-  /* <button class="btn btn-success" data-target="#mymodel"
-data-toggle="modal"> Open SignUp </button>
-<div class="modal " id="mymodel">
-<div></div>
-</div> */
-}
+// {
+//   /* <button class="btn btn-success" data-target="#mymodel"
+// data-toggle="modal"> Open SignUp </button>
+// <div class="modal " id="mymodel">
+// <div></div>
+// </div> */
+// }
